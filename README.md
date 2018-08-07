@@ -1,4 +1,4 @@
-### Arquivos Iniciais para começar um novo projeto de Web Design
+# Arquivos Iniciais para começar um novo projeto de Web Design
 
 ## Pastas e arquivos existentes
 
