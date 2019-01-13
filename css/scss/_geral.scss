@@ -1,5 +1,15 @@
+/* Geral file */
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  color: black;
+  font-size: 60px;
+  font-weight: bold;
+}
+
 div {
-  background: rgba(0,0,0,.4);
-  min-height: 50px !important;
-  margin: 10px 0 10px 0;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
 }
